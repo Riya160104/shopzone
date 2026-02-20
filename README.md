@@ -1,8 +1,6 @@
-# 🛍 ShopZone – E-Commerce Single Page Application
+# ShopZone – E-Commerce Single Page Application
 
 ShopZone is a React-based E-Commerce Single Page Application built using React Router and Context API.
-
-This project was created as part of Internship Mission 6 to understand routing, global state management, and dynamic pages in React.
 
 ---
 
@@ -70,8 +68,3 @@ Added `vercel.json` file to prevent 404 error on refresh:
   ]
 }
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
